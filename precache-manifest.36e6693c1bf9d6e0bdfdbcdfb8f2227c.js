@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73da0438a045ed7434ede2de7886d42d",
+    "revision": "f09e92f209041634eb7cd58845c12e64",
     "url": "/tugas-web3/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tugas-web3/static/css/2.4b6e3ef2.chunk.css"
   },
   {
-    "revision": "1168662fff62fbdbb9bf",
+    "revision": "0116ab01ebd1aa4db4d0",
     "url": "/tugas-web3/static/css/main.b1d03e56.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tugas-web3/static/js/2.b8253ffb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1168662fff62fbdbb9bf",
-    "url": "/tugas-web3/static/js/main.1acc608c.chunk.js"
+    "revision": "0116ab01ebd1aa4db4d0",
+    "url": "/tugas-web3/static/js/main.83bd86aa.chunk.js"
   },
   {
     "revision": "dc403bbe2a90d583b770",

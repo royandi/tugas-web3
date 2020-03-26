@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tugas-web3/precache-manifest.2a556dc5c082595a82837c9ecb01a1c0.js"
+  "/tugas-web3/precache-manifest.36e6693c1bf9d6e0bdfdbcdfb8f2227c.js"
 );
 
 self.addEventListener('message', (event) => {
